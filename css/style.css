@@ -2,15 +2,11 @@
   max-width: 960px;
   min-width: 300px;
   margin: 0 auto;
-
 }
-
-
-
 
 html {
   font-family: "Montserrat", sans-serif;
-  font-size: 16px;
+  font-size: 20px;
   color: #454545;
   margin: 0px;
   padding: 0px;
@@ -42,20 +38,10 @@ position: relative;
   text-transform: uppercase;
   margin: 0;
   position: absolute;
-  top: 32%;
-  left: 44%;
-  width: 150px;
-  font-size: 200%;
-  background-color: white;
-  border-radius: 65%;
-  height:150px;
-  font-weight: bold;
-}
-.hide {
-opacity: 0;
-
-
-
+  top: 38%;
+  left: 46%;
+  width: 11%;
+  font-size: 80%;
 }
 
 #questionButton {
@@ -77,4 +63,3 @@ footer p {
   font-size: 12px;
   font-size: .75em;
 }
-
